@@ -1,0 +1,109 @@
+body
+{
+	background: #1e1e1e;
+	background: gold;
+	/*background: #00ee00;*/
+	/*Colocando Paralaxe*/
+	/*background-image: url('img/estanteLivros.png');
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/ 
+}
+
+nav
+{
+	background: #00ee00;
+	background: #2d2a29;
+	background: #430900;
+	background: #853f00;
+	color: white;
+	font-size: 1.25em;
+}
+
+nav .nav-item
+{
+	background: ; 
+	color: white;
+}
+
+#envelopePrincipal
+{background: white;}
+
+#myCarousel img
+{
+	width: 100%;
+}
+
+#livros a button
+{
+
+}
+#livros h5
+{
+	text-align: center;
+}
+.imgLivro
+{
+	width: 75%;
+	margin-right: auto;
+	margin-left: auto;
+	display: block; 
+}
+
+/*button
+{
+	background: white;
+	border-style:solid;
+	border-color: black;
+	margin-right: auto;
+	margin-left: auto;
+	display: block; 
+}*/
+
+#newButton
+{
+	background: white;
+	color: black;
+	/*border-style: solid;
+	border-color: black;
+	margin-right: auto;
+	*/margin-left: auto;
+	display: block; 
+}
+
+#buttonAmazon button
+{
+	color: black; 
+	border-color: black; 
+	font-size: ; 
+	width: 50%;	
+}
+
+
+
+#divPropagandasAmazon
+{
+	/*Colocando Paralaxe*/
+	background-image: url('img/backgroundKindleUnlimited.png');
+	background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/ 
+}
+
+footer
+{
+	background: #00ee00;
+	background: #2d2a29;
+	background: #430900;
+	background: #853f00;
+	background: #1e1e1e;
+	color: white;
+}
+
+footer a
+{color: white;}
+
+footer a:hover
+{color: lightgrey;}
